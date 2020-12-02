@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duck_b", "duck_b\duck_b.csproj", "{854A256C-852A-41A5-9AB2-A5EE78A739F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy_pattern", "Hunters_game\Strategy_pattern.csproj", "{8AA9846A-3320-43F8-8D56-558766980A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_pattern", "WeatherStation\Observer_pattern.csproj", "{BFED69D2-253D-4C08-835E-C7CA8C98FD29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_pattern", "Decorator_pattern\Decorator_pattern.csproj", "{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoryp", "Factoryp\Factoryp.csproj", "{CC22B23B-AB9D-472C-B072-00947EF60493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_pattern", "Singleton_pattern\Singleton_pattern.csproj", "{47C3D662-51E0-4356-94F4-A1EF0D824848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mix_Pattern", "Mix_Pattern\Mix_Pattern.csproj", "{39270C67-BF7E-4628-84C3-933CD5A372BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854A256C-852A-41A5-9AB2-A5EE78A739F6}.Debug|x86.ActiveCfg = Debug|x86
+		{854A256C-852A-41A5-9AB2-A5EE78A739F6}.Debug|x86.Build.0 = Debug|x86
+		{854A256C-852A-41A5-9AB2-A5EE78A739F6}.Release|x86.ActiveCfg = Release|x86
+		{854A256C-852A-41A5-9AB2-A5EE78A739F6}.Release|x86.Build.0 = Release|x86
+		{8AA9846A-3320-43F8-8D56-558766980A71}.Debug|x86.ActiveCfg = Debug|x86
+		{8AA9846A-3320-43F8-8D56-558766980A71}.Debug|x86.Build.0 = Debug|x86
+		{8AA9846A-3320-43F8-8D56-558766980A71}.Release|x86.ActiveCfg = Release|x86
+		{8AA9846A-3320-43F8-8D56-558766980A71}.Release|x86.Build.0 = Release|x86
+		{BFED69D2-253D-4C08-835E-C7CA8C98FD29}.Debug|x86.ActiveCfg = Debug|x86
+		{BFED69D2-253D-4C08-835E-C7CA8C98FD29}.Debug|x86.Build.0 = Debug|x86
+		{BFED69D2-253D-4C08-835E-C7CA8C98FD29}.Release|x86.ActiveCfg = Release|x86
+		{BFED69D2-253D-4C08-835E-C7CA8C98FD29}.Release|x86.Build.0 = Release|x86
+		{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}.Debug|x86.ActiveCfg = Debug|x86
+		{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}.Debug|x86.Build.0 = Debug|x86
+		{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}.Release|x86.ActiveCfg = Release|x86
+		{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}.Release|x86.Build.0 = Release|x86
+		{CC22B23B-AB9D-472C-B072-00947EF60493}.Debug|x86.ActiveCfg = Debug|x86
+		{CC22B23B-AB9D-472C-B072-00947EF60493}.Debug|x86.Build.0 = Debug|x86
+		{CC22B23B-AB9D-472C-B072-00947EF60493}.Release|x86.ActiveCfg = Release|x86
+		{CC22B23B-AB9D-472C-B072-00947EF60493}.Release|x86.Build.0 = Release|x86
+		{47C3D662-51E0-4356-94F4-A1EF0D824848}.Debug|x86.ActiveCfg = Debug|x86
+		{47C3D662-51E0-4356-94F4-A1EF0D824848}.Debug|x86.Build.0 = Debug|x86
+		{47C3D662-51E0-4356-94F4-A1EF0D824848}.Release|x86.ActiveCfg = Release|x86
+		{47C3D662-51E0-4356-94F4-A1EF0D824848}.Release|x86.Build.0 = Release|x86
+		{39270C67-BF7E-4628-84C3-933CD5A372BA}.Debug|x86.ActiveCfg = Debug|x86
+		{39270C67-BF7E-4628-84C3-933CD5A372BA}.Debug|x86.Build.0 = Debug|x86
+		{39270C67-BF7E-4628-84C3-933CD5A372BA}.Release|x86.ActiveCfg = Release|x86
+		{39270C67-BF7E-4628-84C3-933CD5A372BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

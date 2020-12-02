@@ -1,0 +1,6 @@
+/Users/diegob/Projects/duck_b/WeatherStation/bin/Debug/WeatherStation.exe
+/Users/diegob/Projects/duck_b/WeatherStation/bin/Debug/WeatherStation.pdb
+/Users/diegob/Projects/duck_b/WeatherStation/obj/x86/Debug/Observer_pattern.csproj.CoreCompileInputs.cache
+/Users/diegob/Projects/duck_b/WeatherStation/obj/x86/Debug/WeatherStation.exe
+/Users/diegob/Projects/duck_b/WeatherStation/obj/x86/Debug/WeatherStation.pdb
+/Users/diegob/Projects/duck_b/WeatherStation/obj/x86/Debug/Observer_pattern.csprojAssemblyReference.cache

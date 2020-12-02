@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{A65FD3B0-D7CF-4D6C-B013-C4C6AF2547A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.duck__b PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factoryp/ACPizzaStore.cs">
+    <Files>
+      <File FileName="Factoryp/ACPizzaStore.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="duck_b" expanded="True">
+            <Node name="Factoryp" expanded="True">
+              <Node name="ACPizzaStore.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Observer__pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Strategy__pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Decorator__pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Decorator_pattern/CEspresso.cs" relfile="Decorator_pattern/CEspresso.cs" line="25" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="18" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="19" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="21" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="22" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="23" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="20" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="25" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="27" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="28" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="29" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="30" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="31" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="35" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="36" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="37" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="38" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="19" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="18" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="15" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="24" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="25" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="27" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="28" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="29" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="30" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="14" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/ACCocina.cs" relfile="Mix_Pattern/ACCocina.cs" line="16" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CCocina.cs" relfile="Mix_Pattern/CCocina.cs" line="12" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CCocina.cs" relfile="Mix_Pattern/CCocina.cs" line="13" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CCocina.cs" relfile="Mix_Pattern/CCocina.cs" line="14" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CCocina.cs" relfile="Mix_Pattern/CCocina.cs" line="15" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="39" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="40" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="41" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="51" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="53" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="54" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="55" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="62" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="64" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="65" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="66" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="77" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="76" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="75" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="73" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="9" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="8" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="10" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="11" column="1" />
+      <Breakpoint file="/Users/diegob/Projects/duck_b/Mix_Pattern/CRestaurante.cs" relfile="Mix_Pattern/CRestaurante.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Factoryp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mix__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

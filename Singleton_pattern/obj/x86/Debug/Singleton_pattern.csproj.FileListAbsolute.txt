@@ -1,0 +1,5 @@
+/Users/diegob/Projects/duck_b/Singleton_pattern/bin/Debug/Singleton_pattern.exe
+/Users/diegob/Projects/duck_b/Singleton_pattern/bin/Debug/Singleton_pattern.pdb
+/Users/diegob/Projects/duck_b/Singleton_pattern/obj/x86/Debug/Singleton_pattern.csproj.CoreCompileInputs.cache
+/Users/diegob/Projects/duck_b/Singleton_pattern/obj/x86/Debug/Singleton_pattern.exe
+/Users/diegob/Projects/duck_b/Singleton_pattern/obj/x86/Debug/Singleton_pattern.pdb

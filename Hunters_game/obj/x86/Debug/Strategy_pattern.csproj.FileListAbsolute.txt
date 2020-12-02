@@ -1,0 +1,6 @@
+/Users/diegob/Projects/duck_b/Hunters_game/bin/Debug/Hunters_game.exe
+/Users/diegob/Projects/duck_b/Hunters_game/bin/Debug/Hunters_game.pdb
+/Users/diegob/Projects/duck_b/Hunters_game/obj/x86/Debug/Strategy_pattern.csproj.CoreCompileInputs.cache
+/Users/diegob/Projects/duck_b/Hunters_game/obj/x86/Debug/Hunters_game.exe
+/Users/diegob/Projects/duck_b/Hunters_game/obj/x86/Debug/Hunters_game.pdb
+/Users/diegob/Projects/duck_b/Hunters_game/obj/x86/Debug/Strategy_pattern.csprojAssemblyReference.cache

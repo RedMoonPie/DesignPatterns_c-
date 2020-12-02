@@ -1,0 +1,6 @@
+/Users/diegob/Projects/duck_b/Mix_Pattern/bin/Debug/Mix_Pattern.exe
+/Users/diegob/Projects/duck_b/Mix_Pattern/bin/Debug/Mix_Pattern.pdb
+/Users/diegob/Projects/duck_b/Mix_Pattern/obj/x86/Debug/Mix_Pattern.csproj.CoreCompileInputs.cache
+/Users/diegob/Projects/duck_b/Mix_Pattern/obj/x86/Debug/Mix_Pattern.exe
+/Users/diegob/Projects/duck_b/Mix_Pattern/obj/x86/Debug/Mix_Pattern.pdb
+/Users/diegob/Projects/duck_b/Mix_Pattern/obj/x86/Debug/Mix_Pattern.csprojAssemblyReference.cache

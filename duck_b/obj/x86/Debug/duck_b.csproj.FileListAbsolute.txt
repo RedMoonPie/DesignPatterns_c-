@@ -1,0 +1,6 @@
+/Users/diegob/Projects/duck_b/duck_b/obj/x86/Debug/duck_b.csproj.CoreCompileInputs.cache
+/Users/diegob/Projects/duck_b/duck_b/bin/Debug/duck_b.exe
+/Users/diegob/Projects/duck_b/duck_b/bin/Debug/duck_b.pdb
+/Users/diegob/Projects/duck_b/duck_b/obj/x86/Debug/duck_b.exe
+/Users/diegob/Projects/duck_b/duck_b/obj/x86/Debug/duck_b.pdb
+/Users/diegob/Projects/duck_b/duck_b/obj/x86/Debug/duck_b.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CC22B23B-AB9D-472C-B072-00947EF60493}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cpizza.cs">
+    <Files>
+      <File FileName="ACPizzaStore.cs" Line="1" Column="1" />
+      <File FileName="CChicagoPIzzaIngredientFActory.cs" Line="1" Column="1" />
+      <File FileName="CIngredients.cs" Line="14" Column="6" />
+      <File FileName="CNYPizzaIngredientFactory.cs" Line="1" Column="1" />
+      <File FileName="Cpizza.cs" Line="83" Column="6" />
+      <File FileName="IPizzaIngredientFactory.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Factoryp" expanded="True">
+            <Node name="Factoryp" expanded="True">
+              <Node name="Cpizza.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Factoryp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
